@@ -83,7 +83,13 @@
         "server00dc0b29": {}
       },
       "function": {
-        "server22e4a9c3": {}
+        "server22e4a9c3": {
+          "deploymentBucketName": "amplify-server-amaka-20425-deployment",
+          "s3Key": "amplify-builds/server22e4a9c3-69576653716e6d464c77-build.zip"
+        }
+      },
+      "api": {
+        "api54cba358": {}
       }
     }
   }
